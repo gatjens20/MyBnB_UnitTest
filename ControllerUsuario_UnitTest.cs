@@ -23,7 +23,7 @@ namespace MyBnBTestFixture
         [Test]
         public void getLogin_Test()
         {
-            ControllerUsuarioObj.getLogin();
+            ControllerUsuarioObj.getLogin(); 
         }
 
 

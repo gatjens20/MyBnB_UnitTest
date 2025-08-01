@@ -13,6 +13,9 @@ namespace MyBnBTestFixture
     public class Twitter_UnitTest
     {
         #region Variables
+        /// <summary>
+        /// Represents an instance of the <see cref="Twitter"/> class used for testing Twitter-related functionality.
+        /// </summary>
         Twitter twitterObj;
         string ppublicacion;
         #endregion
